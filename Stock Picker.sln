@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stock Picker", "Stock Picker\Stock Picker.csproj", "{B958D2BF-221B-43BC-933B-92FA209A4167}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stock Picker Tests", "Stock Picker Tests\Stock Picker Tests.csproj", "{BEFCDB11-2387-4C96-953B-F6BBB8DE7DE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B958D2BF-221B-43BC-933B-92FA209A4167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B958D2BF-221B-43BC-933B-92FA209A4167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B958D2BF-221B-43BC-933B-92FA209A4167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B958D2BF-221B-43BC-933B-92FA209A4167}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEFCDB11-2387-4C96-953B-F6BBB8DE7DE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEFCDB11-2387-4C96-953B-F6BBB8DE7DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEFCDB11-2387-4C96-953B-F6BBB8DE7DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEFCDB11-2387-4C96-953B-F6BBB8DE7DE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {815FF535-7D70-4521-BBA5-81777561A93D}
+	EndGlobalSection
+EndGlobal
